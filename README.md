@@ -1,1 +1,2 @@
 # pzi
+zadatak 1 
